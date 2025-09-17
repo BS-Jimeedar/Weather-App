@@ -1,5 +1,5 @@
 {
-  "homepage": "https://howebo.github.io/Weather-App",
+  "homepage": "https://BS-Jimeedar.github.io/Weather-App",
   "name": "wthr",
   "version": "0.1.0",
   "private": true,
@@ -39,6 +39,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.3.0"
   }
 }
